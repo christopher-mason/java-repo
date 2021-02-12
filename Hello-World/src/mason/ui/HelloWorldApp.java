@@ -12,6 +12,7 @@ public class HelloWorldApp {
 		
 		System.out.println(result);
 		System.out.println(x + y);
+		// Only a test
 
 	}
 
